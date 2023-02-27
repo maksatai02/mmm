@@ -115,10 +115,7 @@ h1{
     display: flex;
 }
 .Illustration h3{
-    display: flex;
-    align-items: center;
-    margin-left: 169px;
-    width: 383.41px;
+  
     font-size: 35px;
     color: #0b132a;
 }
