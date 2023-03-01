@@ -1,12 +1,82 @@
 @media (max-width: 1030px) {
     .container{
         max-width: 1024px;
+        margin: 0 auto;
+        padding-left: 10px;
     }
     .col-6{
-        width: 100%;
+        width: 50%;
     }
     .col-4{
-        width: 100%;
+        width: 40%;
         height: 100%;
     }
+    .row{
+        width: 90%;
+    }
+    .meta-col{
+        padding: 57.5px 47px;
+        gap: 10px;
+    }
+    .Illustration h3{
+        margin-left: 40px;
+    }
+    .Illustration p{
+        margin-left: 40px;
+    }
+    img{
+        width: 410px;
+    }
+    .image{
+        width: 700px;
+    }
+    .huge p{
+        margin-left: 280px;
+    }
+    .huge h3{
+        margin-left: 325px;
+    }
+    .smm{
+        width: 50%;
+    }
+    .smmW{
+        margin: 0 auto;
+    }
+    .choose h3{
+        margin-left: 430px;
+    }
+    .choose p{
+        margin-left: 320px;
+    }
+    .Free-plan img{
+        width: 350px;
+    }
+    .text{
+        margin-left: 10px;
+    }
+    h1{
+        font-size: 45px;
+    }
+    /* .text p{
+        width: 480px;
+    } */
+    .icons{
+        width: 850px;
+        margin-left: 70px;
+    }
+    .burger-button{
+        display: block;
+    }
+    .nav-link{
+        display: none;
+    }
+    .header button{
+        display: none;
+    }
+    .abc img{
+        margin-left: 60px;
+    }
+}
+@media (max-width: 1030px){
+
 }
